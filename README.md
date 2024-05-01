@@ -17,3 +17,6 @@ Gen AI End To End Large Language Model Projects
 
 4. 💎🌟META LLAMA3 GENAI Real World UseCases End To End Implementation Guides📝📚⚡                                                       
      [LINK🔗](https://github.com/GURPREETKAURJETHRA/Meta-LLAMA3-GenAI-UseCases-End-To-End-Implementation-Guides)
+
+5. 🌟Advanced Retrieval-Augmented Generation (RAG) through practical notebooks, using the power of the Langchain, OpenAI GPTs ,META LLAMA3 , Agents.🔥💫🎯            
+      [LINK🔗](https://github.com/GURPREETKAURJETHRA/Advanced_RAG)
