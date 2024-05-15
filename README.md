@@ -20,3 +20,7 @@ Gen AI End To End Large Language Model Projects
 
 5. 🌟Advanced Retrieval-Augmented Generation (RAG) through practical notebooks, using the power of the Langchain, OpenAI GPTs ,META LLAMA3 , Agents.🔥💫🎯            
       [LINK🔗](https://github.com/GURPREETKAURJETHRA/Advanced_RAG)
+
+6. 🌟GPT4o-API-Implementation-GPT4-RAG💯🎯💫   
+     [LINK🔗](https://github.com/GURPREETKAURJETHRA/GPT4o-API-Implementation-GPT4-RAG)
+
