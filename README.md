@@ -24,3 +24,10 @@ Gen AI End To End Large Language Model Projects
 6. 🌟GPT4o-API-Implementation-GPT4-RAG💯🎯💫   
      [LINK🔗](https://github.com/GURPREETKAURJETHRA/GPT4o-API-Implementation-GPT4-RAG)
 
+7. 🎯LLM SECURITY 2024 💫💯🔥  [LINK🔗](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY)
+
+8. ✨LLMs Evaluation⚡🌟   [LINK🔗](https://github.com/GURPREETKAURJETHRA/LLMs-Evaluation)
+
+9. 💎Phi-3 LLM by Microsoft🌟🔥[LINK🔗](https://github.com/GURPREETKAURJETHRA/Phi-3-LLM-by-Microsoft)
+
+10. 🌟AI Agents⚡  [LINK🔗](https://github.com/GURPREETKAURJETHRA/AI-Agents)
